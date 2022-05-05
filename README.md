@@ -1,2 +1,3 @@
-# 2-Pratica
-Meu primeiro projeto no Github
+Data: 28/04/2022  
+2-Pratica
+Alisson Leonardo Moreira Horta, Leandro Rodrigues Marques e Raphael Henrique Carvalho.
